@@ -54,7 +54,7 @@ const Dashboard: React.FC = () => {
                 {totalBill !== null && (
                     <div className={styles.result}>
                         <h2>Total Bill</h2>
-                        <h3>${totalBill.toFixed(2)}</h3>
+                        <h3>${totalBill.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}</h3>
                     </div>
                 )}
             </div>
