@@ -4,7 +4,7 @@ This is a small calculator written in TypeScript to calculate the total bill bas
 ## Usage
 
 ### Option A
-Visit [www.spencerpwhitehead.com/ETA-Calculator-TS](www.spencerpwhitehead.com/ETA-Calculator-TS) to use this calculator on a live webpage.
+Visit [https://github.com/spwhitehead/Tip-Calculator-TS.git](https://github.com/spwhitehead/Tip-Calculator-TS.git) to use this calculator on a live webpage.
 
 ### Option B
 To run it locally, fork the repo, then clone it locally.
